@@ -1,4 +1,8 @@
 # Draco's Macropad
+<img width="1089" height="667" alt="image" src="https://github.com/user-attachments/assets/5e4fe25d-3b7e-4a27-abaf-6fd99c5262ac" />
+
+Wasn't really sure where to find Switches for my model :(
+<p></p>
 Draco's Macropad! Likely for use with my wonderful soundboards.
 
 ### Inspiration
