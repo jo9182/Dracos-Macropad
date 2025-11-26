@@ -3,7 +3,7 @@
 <p></p>
 Whole thing together. Wasn't really sure where to find Switches for my model :(
 <p></p>
-<img width="1048" height="739" alt="image" src="https://github.com/user-attachments/assets/0488a275-4b17-4b62-9270-fbb3c0415092" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0488a275-4b17-4b62-9270-fbb3c0415092" />
 <p></p>
 Fun wing design on the bottom (I took way too much time making it).
 
