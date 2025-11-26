@@ -1,7 +1,12 @@
 # Draco's Macropad
-<img width="1089" height="667" alt="image" src="https://github.com/user-attachments/assets/5e4fe25d-3b7e-4a27-abaf-6fd99c5262ac" />
+<img width="904" height="453" alt="image" src="https://github.com/user-attachments/assets/a0d5c368-e7d9-4b9d-b185-9cea313a50c8" />
+<p></p>
+Whole thing together. Wasn't really sure where to find Switches for my model :(
+<p></p>
+<img width="1048" height="739" alt="image" src="https://github.com/user-attachments/assets/0488a275-4b17-4b62-9270-fbb3c0415092" />
+<p></p>
+Fun wing design on the bottom (I took way too much time making it).
 
-Wasn't really sure where to find Switches for my model :(
 <p></p>
 Draco's Macropad! Likely for use with my wonderful soundboards.
 
@@ -26,7 +31,7 @@ Bill Of Materials:
 Others:
 - KMK Firmware
 - Top Panel of Macropad.stl 
-- Bottom Piece of Macropad.stl
+- Bottom Piece of Macropad with designs.stl
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
